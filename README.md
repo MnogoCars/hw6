@@ -14,3 +14,7 @@
 # Часть 2 
 1) 
 ![](https://raw.githubusercontent.com/MnogoCars/hw6/master/Снимок%20экрана%202018-04-04%20в%2018.39.11.png)
+
+2)
+![](https://raw.githubusercontent.com/MnogoCars/hw6/master/Снимок%20экрана%202018-04-04%20в%2018.51.07.png)
+оба глагола могут употреблять с дополнениям *bond*, *belief*, *impression*, *accountability*, *conclusion*. Но, например, *resolve* может употребляться только с *strengthen* (The row	strengthened	my resolve to start on my own), а *stereotype* употребляется только с *reinforce* (Such negative stereotypes are often reinforced by pervasive media images which portray the young as capable and glamorous)
