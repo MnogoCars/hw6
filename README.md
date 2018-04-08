@@ -20,4 +20,6 @@
 оба глагола могут употреблять с дополнениям *bond*, *belief*, *impression*, *accountability*, *conclusion*. Но, например, *resolve* может употребляться только с *strengthen* (The row	strengthened	my resolve to start on my own), а *stereotype* употребляется только с *reinforce* (Such negative stereotypes are often reinforced by pervasive media images which portray the young as capable and glamorous)
 
 3)
-в sketchEngine наблюдается резкий скачок частотности слова *restoration* в 1990-1991 годах, однако этого не наболюдается в Google Ngrams. 
+в sketchEngine наблюдается резкий скачок частотности слова *restoration* в 1990-1991 годах, однако этого не наболюдается в Google Ngrams. Это явление можно объяснить во-первых тем что Google Ngrams анализирует преимущественно научную литературу, в то время как BNC содержит более "живой" язык, язык газет, который так или иначе может отражать и социально-экономичскую ситуацию на тот период 
+![](https://raw.githubusercontent.com/MnogoCars/hw6/master/Снимок%20экрана%202018-04-08%20в%2020.30.04.png)
+![](https://raw.githubusercontent.com/MnogoCars/hw6/master/Снимок%20экрана%202018-04-08%20в%2020.30.35.png)
